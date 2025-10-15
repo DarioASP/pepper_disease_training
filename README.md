@@ -1,7 +1,7 @@
 # 🌶 Pepper Disease Detection with EfficientNet-B0
 
-This project implements a **deep learning pipeline for automatic disease detection in bell pepper leaves**, using the **EfficientNet-B0** architecture trained in **PyTorch / FastAI**.  
-The system classifies images as either **Healthy** or **Bacterial Spot** with **99.6% accuracy**.
+This project implements a deep learning pipeline for automatic disease detection in bell pepper leaves, using the EfficientNet-B0 architecture trained in PyTorch / FastAI.  
+The system classifies images as either Healthy or Bacterial Spot with **99.6% accuracy**.
 
 ---
 
